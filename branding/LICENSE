@@ -1,0 +1,20 @@
+Argus name and mark
+
+Copyright (c) Alexandria Scientific Consulting S.r.l.s. All rights reserved.
+
+The files in this directory (the Argus mark, in every size and format) and the
+name "Argus" as used for Alexandria's monitoring service are not licensed under
+the GNU Affero General Public License or any other open source licence, and no
+rights in them are granted except as stated here.
+
+You may copy these files only as part of this repository, and use them only to
+build and run this Grafana image unchanged, for the purpose of examining or
+reproducing the software Alexandria provides to its users.
+
+You may not use the Argus name or mark, or anything confusingly similar, to
+identify any other product, service or build, including a modified build of this
+repository. If you modify or redistribute this software, replace the files in this
+directory with your own and remove the Argus name.
+
+This does not restrict your rights under the GNU Affero General Public License to
+the rest of this repository: the Dockerfile and Grafana itself.
